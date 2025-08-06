@@ -6,3 +6,4 @@ if(true) {
 else {
     console.log('checking 213');
 }
+console.log('hello, world');
