@@ -7,3 +7,6 @@ else {
     console.log('checking 213');
 }
 console.log('hello, world');
+for(let i =0;i < 10;i++) {
+    console.log('hello, world');
+}
